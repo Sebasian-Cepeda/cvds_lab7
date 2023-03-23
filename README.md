@@ -1,4 +1,5 @@
-# CVDS LAB 7
+# CVDS LAB 7 
+# Juan Sebastian Cepeda Saray
 > si corremos el prgrama vemos que todo funciona correctamente
 >![image](https://user-images.githubusercontent.com/89321404/227385805-e6e0907f-be19-4571-9c73-514ae160cd13.png)
 >
